@@ -1,1 +1,1 @@
-# project
+Libraries, sources, reports, and datasets to install and run datasets to train, model, and visualize data. 
